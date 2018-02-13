@@ -1,0 +1,1 @@
+cmd_/home/seed/Desktop/Lab2/netfilter/miniFirewall.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/Desktop/Lab2/netfilter/miniFirewall.ko /home/seed/Desktop/Lab2/netfilter/miniFirewall.o /home/seed/Desktop/Lab2/netfilter/miniFirewall.mod.o ;  true
